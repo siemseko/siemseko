@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/LeangHuy">
+    <a href="https://github.com/siemseko">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/outputs/github-contribution-grid-snake-dark.svg">
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/outputs/github-contribution-grid-snake.svg">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/LeangHuy"><img src="https://komarev.com/ghpvc/?username=LeangHuy"><a/>
+    <a href="https://github.com/siemseko"><img src="https://komarev.com/ghpvc/?username=LeangHuy"><a/>
 </p>
 
 <h2 align="center">⚒️ Languages-Skills ⚒️</h2>
@@ -33,7 +33,7 @@
 ## GitHub's Stats
 
 <p align="center">
-    <a href="https://github.com/LeangHuy">
+    <a href="https://github.com/siemseko">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/stats-dark.svg">
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/stats.svg">
@@ -45,5 +45,5 @@
             <img alt="Top Languages" src="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/top-lang-dark.svg" width="48%" height="100%">
         </picture>
     </a>
-    <a href="https://github.com/LeangHuy"><img src="https://github-readme-streak-stats.herokuapp.com?user=LeangHuy&theme=tokyonight" alt="GitHub Streak" /></a>
+    <a href="https://github.com/siemseko"><img src="https://github-readme-streak-stats.herokuapp.com?user=LeangHuy&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
