@@ -2,7 +2,7 @@
 
 <p align="center">
     <!-- <a href="https://github.com/LeangHuy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt-get+update;%24+sudo+apt-get+upgrade"></a> -->
-     <a href="https://github.com/LeangHuy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt-get+update;%24+sudo+apt-get+upgrade"></a>
+     <a href="https://github.com/siemseko"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt-get+update;%24+sudo+apt-get+upgrade"></a>
 </p>
 
 <p align="center">
