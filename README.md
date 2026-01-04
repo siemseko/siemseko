@@ -37,7 +37,7 @@
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/stats-dark.svg">
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/stats.svg">
-            <img alt="Github Stats" src="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/stats-dark.svg" width="48%" height="100%">
+            <!-- <img alt="Github Stats" src="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/stats-dark.svg" width="48%" height="100%"> -->
         </picture>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeangHuy/LeangHuy/stats-outputs/top-lang-dark.svg">
